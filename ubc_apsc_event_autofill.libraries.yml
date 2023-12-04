@@ -1,0 +1,6 @@
+autofill:
+  version: 1.x
+  js:
+    js/autofill.js: {}
+  dependencies:
+    - core/jquery

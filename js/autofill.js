@@ -1,5 +1,5 @@
 (function ($, Drupal) {
-    Drupal.behaviors.ubc_event_autofill = {
+    Drupal.behaviors.ubc_apsc_event_autofill = {
       attach: function (context, settings) {
         const locationFields = [
             '[data-drupal-selector="edit-field-event-location-0-address-address-line1"]',

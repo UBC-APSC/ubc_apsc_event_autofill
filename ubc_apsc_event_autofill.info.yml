@@ -1,0 +1,7 @@
+name: 'UBC Event Autofill'
+type: module
+description: 'Autofills the event map fields based on the event location and format fields.'
+package: 'UBC APSC'
+core_version_requirement: ^9.4 || ^10
+dependencies:
+  - drupal:field
