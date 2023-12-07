@@ -1,4 +1,4 @@
-name: 'UBC Event Autofill'
+name: 'UBC APSC Event Autofill'
 type: module
 description: 'Autofills the event map fields based on the event location and format fields.'
 package: 'UBC APSC'
