@@ -1,0 +1,19 @@
+{
+    "name": "apsc-web/ubc_apsc_event_autofill",
+    "description": "Module that autofills the event map fields based on the event location and format fields. Fill Google Maps event field with information from location field, and when selected format is 'Online Event' check 'Disable Google Maps link in event display' ",
+    "type": "drupal-module",
+    "require": {
+	},
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "apsc-web",
+            "email": "web@apsc.ubc.ca",
+			"homepage": "https://apsc.ubc.ca"
+        }
+    ],
+    "minimum-stability": "stable",
+	"support": {
+		"issues": "https://apsc.ubc.ca/web"
+	}
+}
