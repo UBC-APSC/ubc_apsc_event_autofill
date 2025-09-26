@@ -7,6 +7,6 @@ dependencies:
   - drupal:field
 
 # Information added by Drupal.org packaging script
-version: '1.2'
-project: 'UBC APSC'
-datestamp: 1757346192
+version: '1.3'
+project: 'ubc_apsc_event_autofill'
+datestamp: 1758911486
